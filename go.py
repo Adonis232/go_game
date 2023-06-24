@@ -1,6 +1,9 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
+#tt
+
+
 def draw_board():
     #create a figure to draw the board of 9x9 in size
     fig = plt.figure(figsize=[9,9])
